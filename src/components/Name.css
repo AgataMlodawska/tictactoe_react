@@ -1,0 +1,26 @@
+.Form{
+    padding: 1%;
+    width: 100%;
+    min-height: 20%;
+    
+    
+}
+.Text{
+    max-width: 70%;
+    margin: 1%;
+    margin-left:-1%
+}
+.Submit{
+    
+    background-color: #ff652f;
+    border-radius: 7px;
+    padding:1%;
+    max-width: 25%
+
+}
+.Label{
+    padding: 1%;
+}
+.Checkbox{
+    margin: 1%;
+}
